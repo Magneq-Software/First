@@ -1,0 +1,23 @@
+using System;
+namespace SquareAndCubeProgram
+{
+class Program
+{
+static void Main(String[] args)
+{
+int a = 10;
+int b = a * a;
+Console.WriteLine("Square of b is {0}", b);
+Console.WriteLine();
+
+int d = 4;
+int c = d * d * d;
+Console.WriteLine("Cube of c is {0}", c);
+Console.WriteLine();
+Console.ReadLine();
+}
+}
+}
+  
+
+   
