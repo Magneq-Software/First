@@ -1,0 +1,13 @@
+using System;
+namespace firstProgram
+{
+class Program
+{
+static void Main(string[] args)
+{
+Console.WriteLine("Hello world");
+Console.WriteLine("Welcome to Magneq Software");
+Console.ReadLine();
+}
+}
+}
